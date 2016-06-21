@@ -18,3 +18,5 @@ footer: jonjperkins
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+baseurl: /static-wedding-site
