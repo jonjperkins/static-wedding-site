@@ -19,4 +19,4 @@ footer: jonjperkins
 markdown: kramdown
 permalink: pretty
 
-baseurl: 
+baseurl: '/static-wedding-site'
