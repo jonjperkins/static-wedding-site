@@ -166,8 +166,8 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 80px;
-        opacity: 0;
+        font-size: 100px;
+        visibility: hidden;
     }
 
     .intro .intro-body .intro-text {
