@@ -151,6 +151,11 @@ a:focus {
     vertical-align: middle;
 }
 
+.intro .intro-body .photographer {
+    height: -100px;
+    color: blue;
+}
+
 .intro .intro-body .brand-heading {
     font-size: 40px;
 }
